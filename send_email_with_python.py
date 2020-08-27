@@ -1,4 +1,5 @@
 '''DON'T FORGET TO DO NOT NAME YOUR FILE email.py,BECAUSE IT WILL OVER RIDE DEFAULT MODULE'''
+# myaccount.google.com/apppasswords
 # export EMAIL='MyEmail'
 # export EMAIL_PASSWORD='MyEmailPassword'
 
