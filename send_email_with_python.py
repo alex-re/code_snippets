@@ -1,7 +1,11 @@
 '''DON'T FORGET TO DO NOT NAME YOUR FILE email.py,BECAUSE IT WILL OVER RIDE DEFAULT MODULE'''
+
 # myaccount.google.com/apppasswords
+
 # export EMAIL='MyEmail'
 # export EMAIL_PASSWORD='MyEmailPassword'
+
+# python3 -m smtpd -c DebuggingServer -n localhost:1025
 
 import smtplib
 import os
